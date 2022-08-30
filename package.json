@@ -1,0 +1,22 @@
+{
+  "name": "muraldeavisos",
+  "version": "1.0.0",
+  "description": "Mural de avisos com Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermemma/Mural_De_Avisos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermemma/Mural_De_Avisos/issues"
+  },
+  "homepage": "https://github.com/guilhermemma/Mural_De_Avisos#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
